@@ -10,3 +10,5 @@
 [理想的写作环境：Git+Github+Markdown+Jekyll](http://www.yangzhiping.com/tech/writing-space.html)
 
 [快速写作模式谈](http://www.yangzhiping.com/psy/writers-model.html)
+
+	`文章里优雅的引用代码框，只需要用两个单引号把中间的代码包裹起来，使用Tab键即可缩进。`
